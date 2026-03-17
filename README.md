@@ -1,6 +1,6 @@
 # LLM Treasuredata Query Assistant
 
-Natural language interface that converts business questions into SQL queries for Teradata and returns structured outputs.
+Natural language interface that converts business questions into SQL queries for Treasure data and returns structured outputs.
 
 ## Project Overview
 
