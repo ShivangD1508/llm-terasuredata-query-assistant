@@ -1,4 +1,4 @@
-# LLM Teradata Query Assistant
+# LLM Treasuredata Query Assistant
 
 Natural language interface that converts business questions into SQL queries for Teradata and returns structured outputs.
 
